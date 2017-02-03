@@ -1,0 +1,43 @@
+
+
+body {
+    background-color: black;
+      font-family: "Arial", Arial, sans-serif;
+      color: green;
+       text-align: center;
+}
+
+.contact {
+            text-align: center;
+
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    font-family: "Arial", Arial, sans-serif;
+}
+
+    /* unvisited link */
+    a:link {
+        color: green;
+    }
+
+    /* visited link */
+    a:visited {
+        color: gray;
+    }
+    a:link {
+        text-decoration: none;
+    }
+
+    a:visited {
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    a:active {
+        text-decoration: underline;

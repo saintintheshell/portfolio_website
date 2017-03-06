@@ -2,6 +2,6 @@ require 'sinatra'
 
 get "/" do
 
-send_file "public/jarrettcsmith.html"
+send_file "public/jsmith.html"
 
 end
